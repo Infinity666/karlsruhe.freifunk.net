@@ -1,0 +1,31 @@
+image: ruby:2.4.2
+
+stages:
+  - build
+  - deploy
+
+build:
+  stage: build
+  script:
+    - bundle install --frozen --deployment
+    - bundle exec rake build
+    - pwd
+    - find .
+  tags:
+    - docker
+  artifacts:
+    paths:
+      - _config.yml
+      - _site/
+
+deploy:
+  image: ubuntu:xenial
+  stage: deploy
+  script:
+    - apt-get update && apt-get install -y ssh-client rsync && apt-get clean
+    - echo "$DEPLOY_SSH_KEY" | base64 --decode > id_deploy && chmod 600 id_deploy
+    - rsync -avz -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i ./id_deploy" --progress _site/ ${DEPLOY_SSH_USER}@${DEPLOY_SSH_HOST}:${DEPLOY_SSH_PATH}
+  tags:
+    - docker
+  only:
+    - master

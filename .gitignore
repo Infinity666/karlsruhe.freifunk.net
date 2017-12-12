@@ -1,6 +1,5 @@
 /_site
 /.sass-cache
-*.lock
 *.swp
 /.bundle
 /vendor
