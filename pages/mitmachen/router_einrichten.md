@@ -30,7 +30,7 @@ Dein Router sollte nun in den Konfigurationsmodus starten. Du erhältst erneut e
 1. Wähle einen Namen nach dem Schema `ffka-Wahlname`, also bspw. `ffka-Kaesekuchen`.
 2. Aktiviere das `Mesh-VPN`, um eine Verbindung mit dem Freifunk-Netz über das Internet herzustellen
 3. Füge GPS-Koordinaten des Router-Standorts ein. Diese kannst du auf unterschiedliche Weisen erhalten:
-  - Am PC: über [unsere Karte](https://karlsruhe.freifunk.net/meshviewer/) (Zuerst Pin klicken, dann Doppelklick auf die Position des Routers)
+  - Am PC: über [unsere Karte](https://karlsruhe.freifunk.net/karte/) (Zuerst Pin klicken, dann Doppelklick auf die Position des Routers)
   - Android: [GPS Status & Toolbox](https://play.google.com/store/apps/details?id=com.eclipsim.gpsstatus2)
 4. Trage eine funktionierende Kontaktmöglichkeit ein. Deine Adresse wird ausschließlich zur Kontaktaufnahme durch uns genutzt und niemals an Dritte weitergegeben.
 5. Nach einem Klick auf `Speichern und Neustarten` siehst du den Öffentlichen Schlüssel, damit ist dein Router automatisch freigeschaltet. <br />
