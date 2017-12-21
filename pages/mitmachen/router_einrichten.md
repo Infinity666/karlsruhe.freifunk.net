@@ -50,6 +50,6 @@ Wenn du deinen Internetzugang zur Verfügung stellen möchtest, verbinde jetzt d
 
 ### Fertig
 
-Super, du hast es geschafft. Dein Freifunk-Knoten funktioniert jetzt und sollte, wenn du GPS-Koordinaten angegeben hast, in Kürze auf der [Karte](https://karlsruhe.freifunk.net/meshviewer/) erscheinen.
+Super, du hast es geschafft. Dein Freifunk-Knoten funktioniert jetzt und sollte, wenn du GPS-Koordinaten angegeben hast, in Kürze auf der [Karte](https://karlsruhe.freifunk.net/karte/) erscheinen.
 
 Außerdem haben wir für dich einen [Beipackzettel](../..//images/freifunk_karlsruhe_beipackzettel_a5_du.pdf) vorbereitet, auf dem alle wichtigen Punkte noch einmal zusammen gefasst sind.
