@@ -7,22 +7,23 @@ permalink: /impressum/
 top_url: /impressum/
 ---
 
-Freifunk Karlsruhe ist Teil des [Freifunk Rheinland e.V.  ](https://freifunk-rheinland.net/).
+Freifunk Karlsruhe ist Projekt des [Verein zur Förderung freier Netze Region Mittler Oberrhein e.V.](https://vzffnrmo.de/),
+in Zusammenarbeit mit dem [Freifunk Rheinland e.V.  ](https://freifunk-rheinland.net/), sowie dem [Entropia e.V.  ](https://entropia.de)(CCC Karlsruhe).
 
 ## Angaben gemäß § 5 TMG und § 55 RStV
  Freifunk Karlsruhe <br>
- Freifunk Rheinland e.V. <br>
- Postfach 10 03 54 <br>
- 41003 Mönchengladbach
+ Verein zur Förderung freier Netze Region Mittler Oberrhein e.V.<br>
+ Lußhardtstr. 44 <br>
+ 68753 Waghäusel
 
-#### vertreten durch den Vorstand des Freifunk Rheinland e.V.
-Vorsitzender: Philip Berndroth, Essen <br>
-stellv. Vorsitzender: Reiner Gutowski, Mönchengladbach <br>
-Schatzmeisterin: Doris Kroll-Hartge, Mönchengladbach <br>
+#### Vertreten durch den Vorstand des Verein zur Förderung freier Netze Region Mittler Oberrhein e.V.
+Vorsitzender: Simon Terzenbach, Karlsruhe <br>
+stellv. Vorsitzende: Ann-Kristin Vester, Karlsruhe <br>
+Schatzmeister: Benedikt Neuffer, Karlsruhe <br>
 
 #### Registereintrag
-Registergericht: Amtsgericht Düsseldorf <br>
-Registernummer: VR 10563
+Registergericht: Amtsgericht Mannheim <br>
+Registernummer: VR 702099
 
 
 #### Haftung für Inhalte
