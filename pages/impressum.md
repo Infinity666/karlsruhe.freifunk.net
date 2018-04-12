@@ -7,8 +7,8 @@ permalink: /impressum/
 top_url: /impressum/
 ---
 
-Freifunk Karlsruhe ist Projekt des [Verein zur Förderung freier Netze Region Mittler Oberrhein e.V.](https://vzffnrmo.de/)<br>
-,in Zusammenarbeit mit dem [Freifunk Rheinland e.V.  ](https://freifunk-rheinland.net/), sowie dem [Entropia e.V.  ](https://entropia.de)(CCC Karlsruhe).
+Freifunk Karlsruhe ist Projekt des [Verein zur Förderung freier Netze Region Mittler Oberrhein e.V.](https://vzffnrmo.de/).<br>
+In Zusammenarbeit mit dem [Freifunk Rheinland e.V.  ](https://freifunk-rheinland.net/), sowie dem [Entropia e.V.  ](https://entropia.de)(CCC Karlsruhe).
 
 ## Angaben gemäß § 5 TMG und § 55 RStV
  Freifunk Karlsruhe <br>
