@@ -55,7 +55,7 @@
       "interval": "hourly",
       "technicalType": "meshviewer",
       "mapType": "geographical"
-    }
+    },
     {
   "url": "https://api.karlsruhe.freifunk.net/yanic/nodelist/nodelist.json",
   "interval": "60",
