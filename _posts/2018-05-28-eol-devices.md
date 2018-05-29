@@ -83,12 +83,12 @@ Es wird dann lediglich nicht mehr möglich sein, für obige Geräte auf unserer 
 Bis zur Aufnahme von Gluon 2018.1 in unseren Beta Branch (vorraussichtlich bei uns als Firmware 0.6.0) ist es weiterhin möglich, ein oben genanntes Gerät neu zu installieren.
 
 Allerdings möchten wir dir trotzdem nahelegen, neue Geräte aus unserer Liste  [unterstützter Hardware](https://karlsruhe.freifunk.net/mitmachen/unterstuetzte-geraete/) auszuwählen.
-Auch wird es mit Gluon 2018.1 viele neue unterstuetzte Geräte geben, so das wir die Liste empfohlene unterstützter Hardware deutlich erweitern können.
+Auch wird es mit Gluon 2018.1 viele neue unterstuetzte Geräte geben, so das wir die Liste empfohlener und unterstützter Hardware deutlich erweitern können.
 
 ## Wo liegt das Problem der oben genannten Geräte?
 Wir beobachten seit Beginn des Jahres vermehrt Probleme mit diesen Geräten, welche auf die Hardware-Ausstattung zurückzuführen. Alle oben genannten Geräte verfügen über lediglich 32 Megabyte Arbeitsspeicher, welcher langsam aber sicher für die aktuelle Software anfängt nicht mehr auszureichen.
 
-Darüber hinaus haben wir beobachtet, dass Geräte mit 8MB Flash-Speicher besonders betroffen sind, bei uns sind das vor allem Geräte von Ubiquiti sowie der TL-WR1043ND v1 von TP-Link.
+Darüber hinaus haben wir beobachtet, dass Geräte mit 8MB Flash-Speicher und ebenfalls lediglich 32 Megabyte Arbeitsspeicher besonders betroffen sind, bei uns sind das vor allem Geräte von Ubiquiti sowie der TL-WR1043ND v1 von TP-Link.
 
 In der Firmware wurden zwischenzeitlich Massnahmen getroffen, dieses Problem einzudämmen, es ist jedoch schwer einzuschätzen, wie lange dies in der Zukunft noch möglich sein wird.
 
