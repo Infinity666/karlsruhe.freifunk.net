@@ -5,6 +5,8 @@ main_menu: true
 weight: 8
 permalink: /impressum/
 top_url: /impressum/
+sub_menu: true
+sub_weight: 8
 ---
 
 Freifunk Karlsruhe ist Projekt des [Verein zur Förderung freier Netze Region Mittlerer Oberrhein e.V.](https://vzffnrmo.de/).<br>
