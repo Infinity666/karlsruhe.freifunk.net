@@ -1,7 +1,7 @@
 ---
 title: Datenschutzerklärung
 layout: page
-main_menu: true
+sub_menu: true
 weight: 8
 permalink: /impressum/
 top_url: /impressum/datenschutzerklaerung/
