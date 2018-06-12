@@ -2,9 +2,10 @@
 title: Datenschutzerklärung
 layout: page
 sub_menu: true
-weight: 8
-permalink: /impressum/
-top_url: /impressum/datenschutzerklaerung/
+sub_weight: 6
+top_url: /impressum/
+permalink: /impressum/datenschutzerklaerung/
+
 ---
 
 ## Datenschutzerklärung
