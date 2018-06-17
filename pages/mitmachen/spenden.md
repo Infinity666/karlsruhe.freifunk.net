@@ -26,7 +26,7 @@ Für Spenden sollte hierbei im *Verwendungszweck "Spende"* vermerkt sein.
 
 ## Beim Online-Shopping
 
-Zusätzlich kannst Du uns beim Online-Shopping einen kleinen betrag zukommen lassen, in dem Du z.B. [Amazon Smile] (https://smile.amazon.de/ch/30-073-91186) nutzt.
+Zusätzlich kannst Du uns beim Online-Shopping einen kleinen betrag zukommen lassen, in dem Du z.B. [Amazon Smile](https://smile.amazon.de/ch/30-073-91186) nutzt.
 
 
 *Vielen Dank für die Unterstützung!*
