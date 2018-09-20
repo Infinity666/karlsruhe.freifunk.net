@@ -28,9 +28,10 @@ layout:
 		<div class="box" id="treffen">
 			<h3>Treffen</h3>
 			<div id="map" style="height: 30em; margin: 1em 0; width: 45%; float: right; margin-left: 2em"></div>
-			<p>Wir treffen uns jede zweite Woche donnerstags im <a hre f="https://zkm.de/">ZKM</a>, in der Ausstellung OpenCodes. Der Eintritt in die Ausstellung ist Kostenfrei.</p>
-			<p>Das nächste Treffen findet <strong><span id="nextMeetingTime"> am 22. Juli</span></strong> statt.</p>
-			<p>Wenn Du neu bei Freifunk bist, bereits einen Router einrichten möchtest oder einfach nur mehr über das Projekt erfahren willst, komm' einfach zu einem persönlichen Gespräch um <strong>19:30 Uhr</strong> vorbei. Wir freuen uns auf deinen Besuch!</p>
+			<p>Wir treffen uns jede zweite Woche donnerstags im <a hre f="https://zkm.de/">ZKM</a>, in der Ausstellung OpenCodes 2.0. Der Eintritt in die Ausstellung ist Kostenfrei.</p>
+      <p>Das Treffen findet im Rahmen des offenen Treffens der Karlsruher Initativen im ZKM statt. Das heist das meist nicht nur Freifunk Karlsruhe vor Ort ist, sondere auch jede Mege andere Intiativen aus dem OpenSource, OpenData und OpenAccess Umfeld. </p>
+			<p>Das nächste Treffen findet <strong><span id="nextMeetingTime"> am 04. Oktober</span></strong> statt.</p>
+			<p>Wenn Du neu bei Freifunk bist, bereits einen Router einrichten möchtest oder einfach nur mehr über das Projekt erfahren willst, komm' einfach zu einem persönlichen Gespräch um <strong>19:0 Uhr</strong> vorbei. Wir freuen uns auf deinen Besuch!</p>
 			<p>Ab <strong>20 Uhr</strong> findet dann unsere Diskussionsrunde statt, in dem wir aktuelle Entwicklungen diskutieren und unser weiteres Vorgehen koordinieren.
 
 			<h4>Anfahrt</h4>
@@ -60,16 +61,16 @@ layout:
 	   interval = moment( "2017-12-28" ).recur().every(2).weeks();
 	   interval.fromDate(new Date());
 	   nextDate = moment(new Date(interval.next(1)));
-	
+
 	   if (interval.matches(new Date())) {
 		   nextDateStr = "heute";
 	   } else {
-		
+
 		   nextDateStr = "";
 		   if (nextDate.diff(moment(), 'day') < 7) {
 			   nextDateStr += "kommenden ";
 			}
-			
+
 		   nextDateStr += nextDate.format("dddd") + ", den " + nextDate.format("DD. MMMM");
 	   }
 	   $('#nextMeetingTime').text(nextDateStr);
