@@ -12,6 +12,7 @@ Als Grundlage des Freifunk in Karlsruhe, dient das Pico Peering Agreement. Jeder
 
 
 ### Pico Peering Agreement v1.0
+
 #### Preambel
 Mittlerweile gibt es viele Community-Netzwerke, diese sind jedoch geographisch und sozial voneinander getrennt und bilden kein zusammenhängendes Netzwerk. Dieses Dokument ist ein Ansatz (Versuch), diese Netzwerkinseln miteinander zu verbinden, indem es die minimale, grundsätzliche Vorlage für ein "Peering"-Abkommen (Verbindungsabkommen, Bündnisabkommen) zwischen den Eigentümern individueller Netzwerkknoten liefert: das PicoPeeringAgreement (PPA).
 
