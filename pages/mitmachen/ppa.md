@@ -36,8 +36,9 @@ Der Eigentümer ist berechtigt, eine akzeptierbare Benutzungsrichtlinie (use pol
 Diese kann Informationen über zusätzlich (neben den grundsätzlich) angebotene Dienste enthalten.
 Dem Eigentümer steht es frei, die Richtlinie selber zu formulieren, so lange diese nicht den Punkten 1 bis 3 dieser Vereinbarung widersprechen (siehe Punkt 5).
 5. Lokale (individuelle) Zusätze
-Hier können vom Eigentümer selbst Ergänzungen zur Vertragsvereinbarung vorgenommen werden.
-Begriffserklärungen
+Bei nutzung des Backbone-Netzes des Freifunk Rheinland e.V. sowie dem des Verein zur Förderung freier Netze Region Mittlerer Oberrhein e.V. gelten die entsprechenden Policies ebendieser.
+
+#### Begriffserklärungen
 Eigentümer: Der Eigentümer verfügt über das Recht, seine Netzwerkinfrastruktur zu betreiben und einen Teil ihrer Funktionalität für das freie Netzwerk (FreeNetwork) bereitzustellen (zu stiften, zu spenden).
 Transit: Transit ist der Austausch von Daten in ein Netzwerk hinein, heraus oder durch ein Netzwerk hindurch.
 Freier Transit: Freier Transit bedeutet, dass der Eigentümer weder Gebühren für den Transit von Daten erhebt, noch die Daten verändert.
