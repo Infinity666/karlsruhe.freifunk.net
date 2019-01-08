@@ -1,0 +1,19 @@
+   <script>
+	   moment.locale('de');
+	   interval = moment( "2019-01-17" ).recur().every(2).weeks();
+	   interval.fromDate(new Date());
+	   nextDate = moment(new Date(interval.next(1)));
+	
+	   if (interval.matches(new Date())) {
+		   nextDateStr = "heute";
+	   } else {
+		
+		   nextDateStr = "";
+		   if (nextDate.diff(moment(), 'day') < 7) {
+			   nextDateStr += "kommenden ";
+			}
+			
+		   nextDateStr += nextDate.format("dddd") + ", den " + nextDate.format("DD. MMMM");
+	   }
+	   $('#nextMeetingTime').text(nextDateStr);
+  </script>
