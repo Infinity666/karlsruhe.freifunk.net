@@ -52,12 +52,9 @@ Die aktuelle Firmware ist gleichzeitig die letzte mit Unterstützung für 4/32er
 Aus diesem Grund wollen wir Vorsorge treffen: Neben der Unterstützung für viele neue und attraktive Geräte mit den neuen Firmwareversionen werden wir am 1.5.2019 damit beginnen, technische Maßnahmen zu ergreifen, welche die Verbindung neuer 4/32er-Geräte mit dem Netz verhindern.
 
 Eine Liste an nicht mehr unterstützen Geräten findet ihr hier:
-https://karlsruhe.freifunk.net/news/2018/05/28/eol-devices/
+[unterstützte Hardware](https://karlsruhe.freifunk.net/news/2018/05/28/eol-devices/)
 
 Zu dem Thema wird es noch einmal einen separaten Blogpost geben.
 
-Bei Fragen könnt ihr euch gerne auf der Mailingliste oder im Forum (https://forum.ortenau.freifunk.net) melden.
-Und sonst kommt doch mal wieder beim Treffen vorbei: https://karlsruhe.freifunk.net/kontakt/
-
-Viele Grüße und bis bald
-Simon und Julian
+Bei Fragen könnt ihr euch gerne auf der Mailingliste oder im [Forum](https://forum.ortenau.freifunk.net) melden.
+Und sonst kommt doch mal wieder beim [Treffen](https://karlsruhe.freifunk.net/kontakt/) vorbei.
