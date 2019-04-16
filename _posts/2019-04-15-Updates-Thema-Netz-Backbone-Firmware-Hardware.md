@@ -35,7 +35,7 @@ Um dem neuen Standard gerecht zu werden haben wir darüber hinaus einen zweiten 
 
 ## Firmware und Hardwareempfelungen
 
-Mit der neuen Firmware können wir nicht nur endlich unser Netz aufteilen, es wird auch jede Menge neue Hardware unterstützt. Im Zuge dessen wurde unsere Seite mit Hardwareempfehlungen überarbeitet. Ihr findet dort Modell-Empfehlungen für verschiedene Anwendungsfälle und verschiedene Budgets.
+Mit der neuen Firmware können wir nicht nur endlich unser Netz aufteilen, es wird auch jede Menge neue Hardware unterstützt. Im Zuge dessen wurde unsere Seite mit [Hardwareempfehlungen](https://karlsruhe.freifunk.net/mitmachen/unterstuetzte-geraete/) überarbeitet. Ihr findet dort Modell-Empfehlungen für verschiedene Anwendungsfälle und verschiedene Budgets.
 Wir danken den Freifunkern aus Darmstadt für ihre herausragende Arbeit.
 
 Auch unseren eigenen Hadware Pool haben wir entsprechend aufgefrischt:  Im Entropia halten Mitglieder eine Sammlung von AVM Fritzboxen 4020 und 4040 auf Lager, welche zum Selbstkostenpreis mit vorinstallierter Freifunk-Firmware erworben werden können.
