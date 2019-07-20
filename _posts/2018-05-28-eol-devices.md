@@ -75,7 +75,7 @@ Konkret betroffen sind die folgenden Modelle / Modellreihen:
  - VoCore
 
 ## Was bedeutet das für mich?
-Wenn du bereits einen Freifunk-Knoten betreibst, wird sich (erstmal) nichts für dich ändern. Dein Knoten wird weiterhin funktionieren und auch Updates erhalten.
+Wenn du bereits einen Freifunk-Knoten betreibst, wird sich (erst mal) nichts für dich ändern. Dein Knoten wird weiterhin funktionieren und auch Updates erhalten.
 
 Es wird dann lediglich nicht mehr möglich sein, für obige Geräte auf unserer Webseite Firmware herunterzuladen.
 
