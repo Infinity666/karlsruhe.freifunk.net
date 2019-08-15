@@ -13,8 +13,9 @@ Wir sind ständig auf der Suche nach Mithelfern, die uns bei unserer Arbeit unte
 
 Falls du generell interessiert bist mitzuwirken, kannst du dich auf folgender Mailingliste eintragen, über die wir immer viele wichtige Informationen verteilen und gemeinsam diskutieren. Keine Sorge, die Eintragung ist nicht verbindlich und du kannst dich jederzeit wieder abmelden.
 
-<form action="https://lists.entropia.de/postorius/lists/freifunk-ka.lists.entropia.de/" target="_blank" method="post">
-	<input type="email" name="email" placeholder="max@mustermann.de" required />
-	<br />
-	<input type="submit" name="submit" value="Eintragen" /> <i>(öffnet eine neue Seite)</i>
+<form>
+<div style="text-align: center;">
+<input style="width: 300px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 6px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: #dc0067; color: #000; border-radius: 12px; border: 1px solid #999; font-size: 150%;" type="button" value="Eintragen" onclick="window.location.href='https://lists.entropia.de/postorius/lists/freifunk-ka.lists.entropia.de/'"/>
+</div>
 </form>
+
