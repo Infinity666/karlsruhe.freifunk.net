@@ -15,7 +15,7 @@ Gegen 17:00 Uhr fiel die Entscheidung, den Switch auszutauschen. Ersatz wurde ku
 Da die Hosts des VM-Clusters an besagtem Switch angeschlossen waren und zur persistenten Speicherung auf das verteilte Ceph-Dateisystem setzt, welches dadurch ebenfalls vom Ausfall betroffen war, musste zusätzlich Zeit in die Recovery des Clusters investiert werden. Während die meisten Services im Anschluss wieder gestartet werden konnten, kam es bei einigen wenigen VMs zu einer Korruption der virtuellen Festplatte. Betroffene VMs wurden am morgen des 6. Septembers aus einem Off-Site Backup wiederhergestellt.
 
 ### Welche Schritte wurden unternommen?
-Eine erste Analyse zeigte schnell, dass der Switch hohen Packet Loss verursachte. Als erste Gegenmaßnahme wurde der Uplink, von welchem wir annehmen er würde die Probleme verursachen, physikalisch ausgesteckt. Nachdem dies zu keiner Verbesserung führt wurde ein Reboot des Switches durchgeführt. Als auch dies nicht zu erfolg führt wurde schnell die Entscheidung getroffen, den Switch unmittelbar auszutauschen.
+Eine erste Analyse zeigte schnell, dass der Switch hohen Packet Loss verursachte. Als erste Gegenmaßnahme wurde der Uplink, von welchem wir annehmen er würde die Probleme verursachen, physikalisch ausgesteckt. Nachdem dies zu keiner Verbesserung führt wurde ein Reboot des Switches durchgeführt. Als auch dies nicht zu Erfolg führte wurde schnell die Entscheidung getroffen, den Switch unmittelbar auszutauschen.
 Nach Inbetriebnahme des neuen Switches wurde unmittelbar die Recovery des Ceph-Dateisystems gestartet.
 
 ### Was lernen wir daraus?
