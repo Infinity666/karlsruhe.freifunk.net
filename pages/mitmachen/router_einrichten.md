@@ -38,9 +38,13 @@ Dein Router sollte nun in den Konfigurationsmodus starten. Du erhältst erneut e
   - Am PC: über [unsere Karte](https://karlsruhe.freifunk.net/karte/) (Zuerst Pin klicken, dann Doppelklick auf die Position des Routers)
   - Android: [GPS Status & Toolbox](https://play.google.com/store/apps/details?id=com.eclipsim.gpsstatus2)
 4. Trage eine funktionierende Kontaktmöglichkeit ein. Deine Adresse wird ausschließlich zur Kontaktaufnahme durch uns genutzt und niemals an Dritte weitergegeben.
-5. Nach einem Klick auf `Speichern und Neustarten` siehst du den Öffentlichen Schlüssel, damit ist dein Router automatisch freigeschaltet. <br />
-`ffka-Wahlname ` <br />
-`key "f1d2d2f924e986ac86fdf7b36c94bcdf32beec15"` <br />
+Nach einem Klick auf `Speichern und Neustarten` siehst du den Öffentlichen Schlüssel für den VPN-Zugang. Diesen sendest du bitte per E-Mail an [keys@karlsruhe.freifunk.net](mailto:keys@karlsruhe.freifunk.net).
+
+	> &#35; ffka-Wahlname \\
+	> &#35; lambda \\
+	> &#35; a1:01:00:ab:cd:ee \\
+	> key "f1d2d2f924e986ac86fdf7b36c94bcdf32beec15";
+
 
 Danach startet der Router neu, sendet das WLAN `karlsruhe.freifunk.net` aus und versucht, sich per Mesh mit anderen Nachbarn zu verbinden. Falls du keine Mesh-Nachbarn hast, ist eine Verbindung mit dem WLAN-Netzwerk erst dann möglich, sobald sich der neue Freifunk-Knoten mit unserem `Mesh-VPN` verbunden hat.
 
