@@ -38,7 +38,7 @@ Dein Router sollte nun in den Konfigurationsmodus starten. Du erhältst erneut e
   - Am PC: über [unsere Karte](https://karlsruhe.freifunk.net/karte/) (Zuerst Pin klicken, dann Doppelklick auf die Position des Routers)
   - Android: [GPS Status & Toolbox](https://play.google.com/store/apps/details?id=com.eclipsim.gpsstatus2)
 4. Trage eine funktionierende Kontaktmöglichkeit ein. Deine Adresse wird ausschließlich zur Kontaktaufnahme durch uns genutzt und niemals an Dritte weitergegeben.
-Nach einem Klick auf `Speichern und Neustarten` siehst du den Öffentlichen Schlüssel für den VPN-Zugang. Diesen sendest du bitte per E-Mail an [keys@karlsruhe.freifunk.net](mailto:keys@karlsruhe.freifunk.net).
+Nach einem Klick auf `Speichern und Neustarten` siehst du den Öffentlichen Schlüssel für den VPN-Zugang. Diesen sendest du bitte per E-Mail an [keys@karlsruhe.freifunk.net](mailto:vpn-key@karlsruhe.freifunk.net).
 
 	> &#35; ffka-Wahlname \\
 	> &#35; lambda \\
