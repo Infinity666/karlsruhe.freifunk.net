@@ -7,7 +7,7 @@ sub_weight: 60
 permalink: /mitmachen/spenden/
 ---
 
-Freifunk Karlsruhe ist Projekt des gemeinnützigen [Verein zur Förderung freier Netze Region Mittlerer Oberrhein e.V.](https://vzffnrmo.de/).<br>
+Freifunk Karlsruhe ist ein Projekt des gemeinnützigen [Verein zur Förderung freier Netze Region Mittlerer Oberrhein e.V.](https://vzffnrmo.de/).<br>
 In Zusammenarbeit mit dem [Freifunk Rheinland e.V.  ](https://freifunk-rheinland.net/), sowie dem [Entropia e.V.  ](https://entropia.de)(CCC Karlsruhe).
 
 
