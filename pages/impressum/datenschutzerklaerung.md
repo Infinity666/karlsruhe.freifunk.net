@@ -12,7 +12,7 @@ permalink: /impressum/datenschutzerklaerung/
 
 #### Wer ist verantwortlich für die Datenerfassung auf dieser Website?
 
-Die Datenverarbeitung auf dieser Website erfolgt durch den [Verein zur Förderung freier Netze Region Mittlerer Oberrhein e.V.](https://vzffnrmo.de/)
+Die Datenverarbeitung auf dieser Website erfolgt durch den Verein zur Förderung freier Netze Region Mittlerer Oberrhein e.V.
 
 #### Arten der verarbeiteten Daten:
 

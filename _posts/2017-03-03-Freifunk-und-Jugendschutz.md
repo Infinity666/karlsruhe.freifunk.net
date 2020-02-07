@@ -47,4 +47,4 @@ Weiterführende Links:
 
 + Chaos macht Schule - Entropia e.V. <https://entropia.de/Chaos_macht_Schule>
 + Chaos macht Schule - CCC <https://ccc.de/schule>
-+ Jugendschutz beim Freifunk München mit Hinweisen zu Jugendschutzmechanismen unter gängigen Betriebssystemen <https://ffmuc.net/wiki/p/Jugendschutz>
++ Jugendschutz beim Freifunk München mit Hinweisen zu Jugendschutzmechanismen unter gängigen Betriebssystemen (nicht mehr verfügbar)
