@@ -9,7 +9,7 @@ permalink: /mitmachen/router-einrichten/
 
 Diese Anleitung richtet sich an TP-Link und ZyXEL Geräte.
 Solltest du einen Ubiquiti UniFi AP flashen wollen, findest du [hier](https://docs.karlsruhe.freifunk.net/firmware/unifi-ac/) die weitern Schritte.
-Für einen AVM Router/Repeater findest du die nötigen Schritte [hier](https://fritz-tools.readthedocs.io/de/latest/).  
+Für einen AVM Router/Repeater findest du die nötigen Schritte [hier](https://fritz-tools.readthedocs.io/de/latest/).
 
 
 ### Den Router anschließen
