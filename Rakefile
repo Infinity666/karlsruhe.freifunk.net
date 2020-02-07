@@ -12,7 +12,9 @@ task :htmlproofer do
   HTMLProofer.check_directory(
     "./_site",
     {
-      :ssl_verifypeer => false,
+      :typhoeus => {
+        :ssl_verifypeer => false,
+      },
       :url_ignore => [
         /http(s?):\/\/(.*)\.ffka/,
         /^http:\/\/192\.168\..*/,
