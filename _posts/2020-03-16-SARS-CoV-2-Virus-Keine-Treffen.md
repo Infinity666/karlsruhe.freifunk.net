@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bis auf weiteres Keine Treffen"
-date: 2020-01-06 19:30:00
+date: 2020-03-15 19:30:00
 categories: community
 ---
 
