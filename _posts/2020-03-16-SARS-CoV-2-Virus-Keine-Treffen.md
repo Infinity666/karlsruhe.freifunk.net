@@ -9,6 +9,8 @@ Liebe Community,
 
 begründet durch die [aktuellen Gefahrenlage](https://corona.karlsruhe.de/aktuell/allgemeinverfuegung-der-stadt-karlsruhe) auf Grund des SARS-CoV-2-Virus, sowie der daraus resultierenden, [sofortigen Schließung](https://entropia.de/Hauptseite) der Räume unseres Gastgebers Entropia, müssen wir die Freifunk-Karlsruhe-Trefen bis auf Weiteres absagen.
 
+<!--*-->
+
 Wir werden uns über die üblichen Kanäle melden, sobald sich die Lage entspannt hat und wir die regelmäßigen Treffen wiederaufnehmen können.
 
 Bis dahin erreicht ihr uns via [Twitter](https://twitter.com/FFKarlsruhe), [E-Mail](mailto://info@karlsruhe.freifunk.net), [Forum](https://forum.ortenau.freifunk.net/) oder [Telegram](https://t.me/ffka_bot).
