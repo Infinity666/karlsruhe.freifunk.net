@@ -10,7 +10,7 @@ Die aktuelle Lage mit dem Corona Virus macht für uns alle das Leben etwas schwe
 
 Damit ihr trotzdem mit euren Freunden, Verwandten, Kollegen und Bekannten in Kontakt bleiben könnt betreibend die Münchner Freifunker einen Videokonfernz Dienst. Damit dieser den gestiegen Nutzerzahlen standhalten kann, unterstützen wir die Münchner Kollegen von nun an mit, duch uns aus Karlsruhe, bereitgestellte Serverkapazitäten. So können möglichst viele von diesem Dienst profitieren.
 
-Hier kannst du deine Videokonferenz starten. https://meet.ffmuc.net
+Hier kannst du deine Videokonferenz starten. [https://meet.ffmuc.net](https://meet.ffmuc.net)
 
 <!--*-->
 
