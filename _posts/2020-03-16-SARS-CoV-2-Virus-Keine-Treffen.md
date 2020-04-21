@@ -13,7 +13,7 @@ begründet durch die [aktuellen Gefahrenlage](https://corona.karlsruhe.de/aktuel
 
 Wir werden uns über die üblichen Kanäle melden, sobald sich die Lage entspannt hat und wir die regelmäßigen Treffen wiederaufnehmen können.
 
-Bis dahin erreicht ihr uns via [Twitter](https://twitter.com/FFKarlsruhe), [E-Mail](mailto://info@karlsruhe.freifunk.net), [Forum](https://forum.ortenau.freifunk.net/) oder [Telegram](https://t.me/ffka_bot).
+Bis dahin erreicht ihr uns via [Twitter](https://twitter.com/FFKarlsruhe), [E-Mail](mailto:info@karlsruhe.freifunk.net), [Forum](https://forum.ortenau.freifunk.net/) oder [Telegram](https://t.me/ffka_bot).
 
 Unser Netzbetrieb ist von diesen Maßnahmen nicht betroffen.
 
