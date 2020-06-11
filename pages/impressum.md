@@ -10,7 +10,7 @@ sub_weight: 8
 ---
 
 Freifunk Karlsruhe ist Projekt des Verein zur Förderung freier Netze Region Mittlerer Oberrhein e.V..<br>
-In Zusammenarbeit mit dem [Freifunk Rheinland e.V.  ](https://freifunk-rheinland.net/), sowie dem [Entropia e.V.  ](https://entropia.de)(CCC Karlsruhe).
+In Zusammenarbeit mit dem [Entropia e.V.  ](https://entropia.de)(CCC Karlsruhe).
 
 ## Angaben gemäß § 5 TMG und § 55 RStV
  Freifunk Karlsruhe <br>
