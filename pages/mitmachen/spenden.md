@@ -8,7 +8,7 @@ permalink: /mitmachen/spenden/
 ---
 
 Freifunk Karlsruhe ist ein Projekt des gemeinnützigen Verein zur Förderung freier Netze Region Mittlerer Oberrhein e.V..<br>
-In Zusammenarbeit mit dem [Freifunk Rheinland e.V.](https://freifunk-rheinland.net/), sowie dem [Entropia e.V.](https://entropia.de)(CCC Karlsruhe).
+In Zusammenarbeit mit dem [Entropia e.V.](https://entropia.de)(CCC Karlsruhe).
 
 
 ## Direkt per Überweisung
