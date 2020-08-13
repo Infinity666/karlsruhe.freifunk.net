@@ -10,7 +10,7 @@ Vom Mittag des 12. bis zum Nachmittag des 13. August 2020 war Freifunk Karlsruhe
 <!--*-->
 
 ### Weitere Details
-Am 12. August 2020 war das Freifunk-Netz ab 13:13 Uhr nicht mehr erreichbar. Eine erste Recherche ergab, dass es sich um ein Problem unseres Carriers handeln müsse, da auch unser Out-of-Band-Zugriff sowie das separat gehostete Monitoring-System nicht mehr erreichbar waren. Gegen 14:30 Uhr erreichte uns die Information unseres Carriers, dass auch dieser seit ca. 13:15 Uhr beide Router am Standort nicht mehr erreichen kann und es sich um vermutlich um einen Fibercut handelt. Gegen 16:00 Uhr wurde der Fibercut von unserem Carrier bestätigt. Ein Störungsende war zu dem Zeitpunkt für die frühen Morgenstunden des 13. August 2020 prognostiziert. 
+Am 12. August 2020 war das Freifunk-Netz ab 13:13 Uhr nicht mehr erreichbar. Eine erste Recherche ergab, dass es sich um ein Problem unseres Carriers handeln müsse, da auch unser Out-of-Band-Zugriff sowie das separat gehostete Monitoring-System nicht mehr erreichbar waren. Gegen 14:30 Uhr erreichte uns die Information unseres Carriers, dass auch dieser seit ca. 13:15 Uhr beide Router am Standort nicht mehr erreichen kann und es sich um vermutlich um einen Fibercut handelt. Gegen 16:00 Uhr wurde der Fibercut von unserem Carrier bestätigt. Ein Störungsende war zu dem Zeitpunkt für die frühen Morgenstunden des 13. August 2020 prognostiziert.
 Da sich der Firbercut anscheinend als schwerwiegender herausstellte als ursprünglich gedacht, konnte der Termin nicht gehalten werden. Die Glasaser-Verbindung wurde daher erst um 16 Uhr des 13. August 2020 wieder hergestellt.
 
 ### Welche Schritte wurden unternommen?
@@ -29,5 +29,5 @@ Um die Netz-Qualität von Freifunk Karlsruhe langfristig zu erhöhen wird derzei
 Die vielen Anfragen, welche wir auf verschiedenen Kanälen während der Störung erhielten, zeigen uns, welchen Stellenwert Freifunk in Karlsruhe hat, und wie viele Menschen unser Netz nutzen -- dies ist für uns eine große Motivation.
 
 ### Wie kann ich unterstützen?
-Momentan betreiben wir das Netz auf Basis von Spenden und Sponsorings. Wenn du finanziell etwas beisteuern kannst freuen wir uns [über eine Spende](https://karlsruhe.freifunk.net/mitmachen/spenden/). Ebenfalls freuen wir uns über die Vermittlung von Kontakten zu lokalen Dienstleistern oder Institutionen, welche uns konkret unterstützen können, z.B. durch die Bereitstellung von Glasfaser-Strecken, L2-Transport, Transit oder Dächern hoher Gebäude für die Installation von Richtfunk-Equipment. 
+Momentan betreiben wir das Netz auf Basis von Spenden und Sponsorings. Wenn du finanziell etwas beisteuern kannst freuen wir uns [über eine Spende](https://karlsruhe.freifunk.net/mitmachen/spenden/). Ebenfalls freuen wir uns über die Vermittlung von Kontakten zu lokalen Dienstleistern oder Institutionen, welche uns konkret unterstützen können, z.B. durch die Bereitstellung von Glasfaser-Strecken, L2-Transport, Transit oder Dächern hoher Gebäude für die Installation von Richtfunk-Equipment.
 
