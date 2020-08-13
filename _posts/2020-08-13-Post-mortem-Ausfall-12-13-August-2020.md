@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Post-mortem Ausfall 12. - 13. August 2020"
-date: 2019-08-13 23:30:00
+date: 2020-08-13 23:30:00
 categories: community
 ---
 
