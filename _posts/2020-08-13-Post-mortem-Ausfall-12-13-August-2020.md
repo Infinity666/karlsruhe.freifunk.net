@@ -5,7 +5,7 @@ date: 2020-08-13 23:30:00
 categories: community
 ---
 
-Vom Mittag des 12. bis zum Nachmittag des 13. August 2020 war Freifunk Karlsruhe von einem Ausfall großer Teile der Infrastruktur betroffen. Konkret waren alle selbstgehosteten Services von Freifunk Karlsruhe und teileweise auch Freifunk Westpfalz betraf. Grund dafür war ein sogenannter Fibercut am 12. August, welcher bei Bauarbeiten nahe der Haltestelle Yorkstraße in Karlsruhe auftrat. Hierbei wurden beide Glasfasernstrecken, welche unseren Standort mit dem Internet verbinden, von einem Bagger durchtrennt. Erst am 13. August gegen 16 Uhr konnte die Störung behoben werden.
+Vom Mittag des 12. bis zum Nachmittag des 13. August 2020 war Freifunk Karlsruhe von einem Ausfall großer Teile der Infrastruktur betroffen. Konkret waren alle selbstgehosteten Services von Freifunk Karlsruhe und teileweise auch Freifunk Westpfalz nicht verfügbar. Grund dafür war ein sogenannter Fibercut am 12. August, welcher bei Bauarbeiten nahe der Haltestelle Yorkstraße in Karlsruhe auftrat. Hierbei wurden beide Glasfasernstrecken, welche unseren Standort mit dem Internet verbinden, von einem Bagger durchtrennt. Erst am 13. August gegen 16 Uhr konnte die Störung behoben werden.
 
 <!--*-->
 
