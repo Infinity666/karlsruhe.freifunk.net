@@ -11,7 +11,7 @@ Vom Mittag des 12. bis zum Nachmittag des 13. August 2020 war Freifunk Karlsruhe
 
 ### Weitere Details
 Am 12. August 2020 war das Freifunk-Netz ab 13:13 Uhr nicht mehr erreichbar. Eine erste Recherche ergab, dass es sich um ein Problem unseres Carriers handeln müsse, da auch unser Out-of-Band-Zugriff sowie das separat gehostete Monitoring-System nicht mehr erreichbar waren. Gegen 14:30 Uhr erreichte uns die Information unseres Carriers, dass auch dieser seit ca. 13:15 Uhr beide Router am Standort nicht mehr erreichen kann und es sich um vermutlich um einen Fibercut handelt. Gegen 16:00 Uhr wurde der Fibercut von unserem Carrier bestätigt. Ein Störungsende war zu dem Zeitpunkt für die frühen Morgenstunden des 13. August 2020 prognostiziert.
-Da sich der Firbercut anscheinend als schwerwiegender herausstellte als ursprünglich gedacht, konnte der Termin nicht gehalten werden. Die Glasaser-Verbindung wurde daher erst um 16 Uhr des 13. August 2020 wieder hergestellt.
+Da sich der Firbercut anscheinend als schwerwiegender als ursprünglich gedacht herausstellte, konnte der Termin nicht gehalten werden. Die Glasaser-Verbindung wurde daher erst um 16 Uhr des 13. August 2020 wieder hergestellt.
 
 ### Welche Schritte wurden unternommen?
 Nach der Bestätigung über die außerhalb unseres Einflussbereichs liegenden Gründe für den Ausfall seitens unseres Carrieres begannen wir mit der aktiven Kommunikation des Status via Twitter, da wir keine Möglichkeit sahen, kurzfristig den Zustand zu beeinflussen: [Twitter](https://twitter.com/FFKarlsruhe/status/1293527355152097280)
