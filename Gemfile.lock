@@ -24,7 +24,7 @@ GEM
     faraday (0.13.1)
       multipart-post (>= 1.2, < 3)
     fast-stemmer (1.0.2)
-    ffi (1.9.18)
+    ffi (1.13.1)
     html-proofer (3.7.4)
       activesupport (>= 4.2, < 6.0)
       addressable (~> 2.3)
